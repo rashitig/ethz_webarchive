@@ -4,7 +4,6 @@ using: https://github.com/recrm/ArchiveTools#warc-extractorpy
 """
 import subprocess
 import os
-import shutil
 import json
 import re
 import gzip
@@ -62,6 +61,18 @@ def warc_to_html(input_dir_path: str, output_dir_path: str):
     """
     subprocess.call(f"python warc_extractor.py http:content-type:text/html -dump content -error -path {input_dir_path} -output_path {output_dir_path}", shell=True)
 
+def warc_to_pdf(input_dir_path: str, output_dir_path: str):
+    """
+    Goes through the files in `input_dir_path`, finds all the warc (and warc.gz) files,
+    extracts the pdf files and saves them in a `output_dir_path/wp-content` folder.
+
+    Args:
+        input_dir_path (str): Path to the input directory.
+        output_dir_path (str): Path to the output directory.
+    """
+    subprocess.call(f"python warc_extractor.py http:content-type:pdf -dump content -error -path {input_dir_path} -output_path {output_dir_path}", shell=True)
+
+
 def process_file(file, d, output_file_format, output_dir, base_site):
     """
     Given the html file extracts the text, does some cleanup and
@@ -104,7 +115,7 @@ def process_file(file, d, output_file_format, output_dir, base_site):
                         html = f_in.read()
                 except UnicodeDecodeError:
                     with open("error_files.txt", "a+") as f_out_err:
-                        print(f"This file could not be read: {d+"/"+file}", file=f_out_err)
+                        print(f"This file could not be read: {d+'/'+file}", file=f_out_err)
                     return
         if html == "":
             return
@@ -298,8 +309,8 @@ def warc_to_string(cmi_coll_excel_path: str,
 
 COLL="19945"
 if __name__ == "__main__":
-    warc_to_string("/home/genta/Downloads/2025-09-11_CMI-Export_Coll-"+COLL+".xlsx",
-                   "/home/genta/mnt/adl/kizh/"+COLL+"",
-                   "/home/genta/git/KIZH/Topic_Modeling/2025-10-06_"+COLL+"_mappings.json",
+    warc_to_string("./data/2025-11-20_"+COLL+"_topics.xlsx",
+                   "./data/ethz_websites_2022-2025_examples",
+                   "./"+COLL+"_mappings.json",
                    "./data/"+COLL
                    )
