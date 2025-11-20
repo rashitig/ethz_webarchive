@@ -1,0 +1,5 @@
+beautifulsoup4==4.13.4
+pandas==2.2.3
+html-to-markdown==1.8.0
+tqdm==4.67.1
+openpyxl==3.1.5

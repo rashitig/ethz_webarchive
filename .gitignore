@@ -138,7 +138,7 @@ celerybeat.pid
 .env
 .envrc
 .venv
-env/
+env_warc/
 venv/
 ENV/
 env.bak/
