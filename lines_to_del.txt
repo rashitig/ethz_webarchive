@@ -1,0 +1,485 @@
+Known limitations on the website
+Einige Tabellen weisen nur Spaltenüberschriften auf, obwohl auch Zeilenüberschriften notwendig wären (und umgekehrt). Teilweise enthalten sie leere Zellen. Das bedeutet, dass assistierende Technologien die Tabellen nicht richtig lesen (linearisieren) können. Das WCAG-Erfolgskriterium 1.3.1 (Info und Beziehungen) ist in diesen Fällen nicht erfüllt.
+Sämtliche Inhalte dieser Website wie Texte, Dokumente etc. sind urheberrechtlich geschützt und dürfen nur zum persönlichen und wissenschaftlichen Gebrauch kopiert und ausgedruckt werden. Jegliche Wiedergabe, Weiterübertragung oder sonstiger Gebrauch des Inhalts dieser Website ist untersagt.
+The page you are looking for does not exist. It may have been moved, or removed. Perhaps you can return back to the homepage and see if you can find what you are looking for.
+Dienstleistungen zu erbringen. Auch wird Google diese Informationen  gegebenenfalls an Dritte übertragen, sofern dies gesetzlich vorgeschrieben oder  soweit Dritte diese Daten im
+Die Datenschutzerklärung der Veröffentlichenden regelt die Erhebung und Verarbeitung von Personendaten auf den jeweiligen Webseiten. Sie kann hier eingesehen werden: https://account.vseth.ethz.ch/privacy
+die Webadresse (URL) des Inhalts und
+ETH ZurichRisk Center
+Diese Technologien werden für die Konformität mit den verwendeten Zugänglichkeitsstandards verwendet.
+By using RV2, you indicate your acceptance of these legal terms.
+ETH Zurich reserves the right to withdraw distribution privileges from any group, individual, or organization for any reason.
+Codifying accessibility in our mission statement
+Self-evaluation: We have hired specialists who regularly assess the accessibility of web content (both new and previously published) and make suggestions for improvement.
+Ohne Maus oder anderes Zeigegerät navigieren (nur Tastatur). Dabei bleibt der Tastaturfokus immer gut sichtbar und seine Reihenfolge ist inhaltlich sinnvoll.
+More information about this error may be available
+No database information available
+Privat- und Gastdozierende
+Externe Bewertung: externe SeiteZugang für allecall_made überprüft den Webauftritt sowie die meistgenutzten Applikationen der ETH Zürich nach und nach auf ihre Barrierefreiheit. Die ETH Zürich hat es sich zum Ziel gesetzt, die aufgedeckten Barrieren zu beseitigen.
+Following the latest measures announced by the Federal Council, all ETH members must work remotely from home as of Monday. The only exceptions are for experimental work, workshops or other activities requiring on-site presence. University buildings will mostly be closed, with a few exceptions. The exam session is still going ahead as planned from 25 January onwards, with some exams sat in person.
+Enable JavaScript to login
+5. Intellectual property and other rights
+Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+sind fast keine Inhalte in Gebärdensprache verfügbar,
+Die Seite konnte nicht gefunden werden
+1. Definition of the Software
+«ETH» ist eine eingetragene Marke der ETH Zürich in der Schweiz
+We would be happy to receive feedback regarding the accessibility of the ETH Zurich website. Please let us know if you encounter any obstacles when using our site. Please include the following information:
+Den grössten Teil des Webauftritts auf einem Smartphone bedienen, unabhängig von der Ausrichtung des Geräts (hoch oder quer).
+Die ETH Zürich orientiert sich gemäss Art. 10 Abs. 1 Behindertengleichstellungsverordnung an den folgenden nationalen und internationalen Standards zur Barrierefreiheit:
+Die Web Content Accessibility Guidelines (WCAG) definieren Anforderungen an Designer:innen, Entwickler:innen, Contentredaktor:innen, usw., um die Zugänglichkeit digitaler Inhalte für Menschen mit Behinderungen zu verbessern. Es werden drei Stufen der Konformität definiert: Stufen A, AA und AAA.
+Technische Hochschule Zürich404 Cache Server Error: Not found (filtered)
+c. ModificationNeither modification, combination with other commercial applications or other preparation of derivative works of the Software, nor reverse engineering, decompilation, disassembly or other reduction of any portion of the Software is permitted except for the provisions of the applicable law (article 21 URG [Bundesgesetz über das Urheberrecht, SR 231.1]).
+Prevent unauthorized use! Clear the cache of your browser (particularly cookies) when you finished browsing.
+© 2025  Eidgenössische
+JavaScript is not available.
+If any provisions of this Agreement will become invalid or unenforceable, such invalidity or enforceability shall not affect the other provisions of Agreement which shall remain in full force and effect provided that the basic intent of the parties is preserved. The parties will in good faith negotiate substitute provisions to replace invalid or unenforceable provisions which reflect the original intentions of the parties as closely as possible and maintain the economic balance between the parties.
+Seite nicht gefunden
+Community & Initiatives
+JavaScript has been disabled on your browser
+Diese Barrierefreiheitserklärung gilt für den Webauftritt (www.ethz.ch) inklusive aller Seiten im offiziellen CMS der ETH Zürich. Überall, wo die Erklärung gültig ist, ist sie unten im Footer verlinkt und vice versa.
+Accessibility statement for the ETH Zurich website
+Sorry, this Silva Document is not viewable.
+Betreiber der Website Akademischer Sportverband ZürichLeonhardstrasse 36 | ETH Zentrum8092 Zürich+41 44 632 42 10 | info@asvz.chKonzept, Design und EntwicklungLiip AGwww.liip.chHostingNine Internet Solutions AGwww.nine.ch
+Abstände zwischen Zeilen, Wörtern und Buchstaben sowie nach Absätzen ohne resultierende Einschränkungen vergrössern können.
+ETH Zurich does not tolerate the following behaviour, in particular:
+Automatic hyphenation is the default setting on the ETH Zurich website. This causes screen readers to have unusual pronunciation in parts. Solution: In the jump links, there is a screen reader “reading mode” available as the first option. If this setting is activated, a version of the text without hyphenation will be read aloud, retaining the usual pronunciation of the words.
+von Mitgliedstaaten der Europäischen  Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum  zuvor gekürzt.
+root@localhost to inform them of the time this error occurred,
+3. The Scope of the License
+Log in with username and password
+Die Angaben im Breadcrumb («Krümelpfad») auch nicht-visuell als solche erkennen können.
+ETH Zurich has no obligation of maintenance, support, upgrades or new releases and disclaims all costs associated with serving, repair or correction.
+Project Output Information
+It looks like nothing was found at this location. Maybe try a search?
+Datenschutzerklärung für die Nutzung von Google Analytics
+Informationen & Dokumente
+Bisher publizierte PDF-Dokumente werden nicht nachträglich barrierefrei gemacht. Es bestünde ein unverhältnismässiger Aufwand.
+Studium und Behinderung
+The content listed below does not meet the desired level of conformance; the ETH Zurich website is not completely accessible in all parts. For example,
+Previously published videos will not be subtitled or given an audio description. A disproportionate amount of effort would be required to correct this.
+Open and fair communication & conflict resolution
+auszuwerten, um Reports  über die Websiteaktivitäten für die Websitebetreiber zusammenzustellen und um  weitere mit der Websitenutzung und der Internetnutzung verbundene
+Mit Jimdo kann sich jeder kostenlos und ohne Vorkenntnisse eine eigene Homepage gestalten. Design auswählen, Klick für Klick anpassen, Inhalte in Sekunden integrieren, fertig!
+Log in with WordPress.com
+Ongoing training of staff on the topic of accessibility
+Auf 400% zoomen ohne Probleme.
+The server encountered an internal error or
+Sämtliche Online-​Dokumente und Webseiten sowie ihre Teile sind urheberrechtlich geschützt und dürfen nur zum privaten, wissenschaftlichen und nicht gewerblichen Gebrauch kopiert und ausgedruckt werden.
+Details zum Studium
+CookieDurationDescriptioncookielawinfo-checkbox-analytics11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".cookielawinfo-checkbox-functional11 monthsThe cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".cookielawinfo-checkbox-necessary11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".cookielawinfo-checkbox-others11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.cookielawinfo-checkbox-performance11 monthsThis cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".viewed_cookie_policy11 monthsThe cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data.
+Anmeldung ist fehlgeschlagen
+Services und Downloads
+Kontaktieren Sie uns auf einem der folgenden Wege:
+Gewisse Inhalte und Dokumente im Webauftritt der ETH Zürich werden wir nicht barrierefrei anbieten:
+Trotz unserer Anstrengungen, die Zugänglichkeit des ETH-Webauftritt zu gewährleisten, kann es einige Einschränkungen geben. Im Folgenden finden Sie eine Beschreibung der bekannten Einschränkungen und mögliche Lösungen. Bitte kontaktieren Sie uns, wenn Sie ein Problem beobachten, das hier nicht aufgeführt ist.
+Jede Seite an ihrem eindeutigen, aussagekräftigen Titel erkennen können, der Thema oder Zweck der Seite sowie die Betreiberin enthält.
+Kontakt / Mitarbeitende
+Honesty and integrity
+Having a centralised content management system and monitoring tool, both of which ensure the highest level of accessibility when taken together
+If any dispute, controversy or difference arises between the Parties hereto in connection with or out of this Agreement, the parties hereto shall first attempt to settle it amicably. Should settlement not be achieved, the Courts of Zurich-City shall have exclusive jurisdiction.
+Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von  Google in den USA übertragen und dort gekürzt. Google wird diese Informationen benutzen, um Ihre Nutzung der Website
+external pageeCH-0059 Accessibility Standard Version 3.0call_made (German and French only)
+Kontakt und Downloads
+More information about privacy can be found here.
+there are some graphics and other content that do not have sufficient levels of contrast. The WCAG success criteria 1.4.3 (contrast (minimum)) and 1.4.11 (non-text contrast) are not met in these instances.
+Im Webauftritt der ETH Zürich ist standardmässig die automatische Silbentrennung aktiviert. In Screenreadern führt dies zu einer unüblichen Aussprache der Wörter. Lösung: In den Sprunglinks steht an erster Stelle ein Screenreader-Lesemodus zur Verfügung. Ist dieser aktiviert, wird eine Textversion ohne Silbentrennung vorgelesen, so dass die gewohnte Aussprache der Wörter verwendet wird.
+Wissenschaftsorientierte Texte und Studienergebnisse sowie Informationen rund um Studium, Doktorat und Arbeit an der ETH Zürich werden nicht durch einfache oder Leichte Sprache ergänzt oder in Gebärdensprache umgesetzt. Es bestünde ein unverhältnismässiger Aufwand.
+Bisher publizierte Videos werden nicht nachträglich mit Untertiteln oder Audiodeskriptionen versehen. Es bestünde ein unverhältnismässiger Aufwand.
+sind einzelne Schalter nicht korrekt identifizierbar,
+Suchbegriff oder Person
+Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+Die gesuchte Seite konnte nicht gefunden werden. Sie wurde möglicherweise entfernt, umbenannt oder existierte von vornherein nicht.
+Der Schweizer Accessibility-Standard eCH-0059 referenziert die WCAG und geht gleichzeitig in gewissen Bereichen darüber hinaus (z.B. Angebot in Gebärdensprache und Leichter Sprache).
+Advanced features of this website require that you enable JavaScript in your browser. Thank you!
+Verantwortlich für den Inhalt dieser Seiten sind die verantwortlichen Mitarbeitenden der betreffenden Sportarten, Anlagen und/oder Bereiche. Für Anfragen zum Inhalt kontaktiere uns über info@asvz.ch.
+Fehlerhaft strukturierter Inhalt (Text, Listen, Tabellen) wird mithilfe des obgenannten Monitorings fortlaufend kontrolliert.
+löschen oder die Veröffentlichung zeitweise oder endgültig  einzustellen.
+In accordance with Art. 10 para. 1 of the Behindertengleichstellungsverordnung (Disability Discrimination Ordinance), ETH Zurich uses the following national and international accessibility standards as a guide:
+Some content and documents on the ETH Zurich website will not be made accessible:
+The content in this site is accessible to any browser or
+Powered by WordPress
+Programme and Speakers
+Object MovedThis document may be found hereDocument Moved
+Diese Website wird in älteren Versionen von Netscape ohne
+your contact information (email and name).
+externe SeiteWCAG 2.1, Konformitätsstufe AAcall_made
+warranty of accuracy of results, of the quality and performance of the Software
+Unterstützung für Studium und wissenschaftliche Laufbahn
+Resources / Downloads
+Be able to navigate using voice recognition.
+© ETH Zurich Disclaimer: The views and opinions expressed in this blog do not necessarily reflect those of ETH Zurich. In addition, ETH Zurich is not responsible for the content of external links.302 Found
+Verweise und Links auf Webseiten Dritter liegen ausserhalb unseres Verantwortungsbereichs. Es wird jegliche Verantwortung für solche Webseiten abgelehnt. Der Zugriff und die Nutzung solcher Webseiten erfolgen auf eigene Gefahr des jeweiligen Nutzers.
+Welcome to the user authentication
+Der Autor übernimmt keinerlei Gewähr hinsichtlich der inhaltlichen Richtigkeit, Genauigkeit, Aktualität, Zuverlässigkeit und Vollständigkeit der Informationen.
+misconfiguration and was unable to complete
+There are no events on this day.
+Die Grafiken auf einigen Seiten weisen nicht immer geeignete Alternativtexte auf. Mit assistierenden Technologien haben Sie möglicherweise keinen Zugang zu den Informationen, die in den Bildern vermittelt werden. Das WCAG-Erfolgskriterium 1.1.1 (Nicht-Text-Inhalt) ist in diesen Fällen nicht erfüllt.
+in the server error log.
+← Zurück zu VCSAnmelden ‹ VCS — WordPress
+External evaluation: external pageAccess for Allcall_made periodically reviews ETH’s website and most commonly used applications in terms of their accessibility. ETH Zurich aims to remove any barriers that are identified.
+ETH-Passwort für Webapplikationen (LDAP) *
+Haftungsansprüche gegen den Autor wegen Schäden materieller oder immaterieller Art, welche aus dem Zugriff oder der Nutzung bzw. Nichtnutzung der veröffentlichten Informationen, durch Missbrauch der Verbindung oder durch technische Störungen entstanden sind, werden ausgeschlossen.
+graphische Elemente dargestellt. Die Funktionalität der
+Be conveyed information that is understandable irrespective of colour vision deficiency and without being disturbed by flashing elements.
+Enable JavaScript and cookies to continue
+Ownership and intellectual property rights in and to the Software shall remain in ETH Zurich.
+Move navigation left
+Willkommen bei der Benutzerauthentifizierung
+For full functionality of this website, it is best to enable Javascript in your web browser.
+The Software is provided “as is”. ETH Zurich does not make any warranty of any kind. The LICENSEE assumes the entire risk as to the results and performance of the SOFTWARE. Disclaimed warranties include for example:‌
+Events and Seminars
+Beschränkungen und Alternativen
+Username or Email Address
+Bekannte Einschränkungen im Webauftritt
+Die meisten Inhalte auf mindestens zwei von drei Arten erreichen können (Navigation, Suche, Sitemap).
+Professors & Groups
+4. Obligations of LICENSEE
+Haftung für Links
+For Policy Makers
+Locate the website you are interested in via the Webarchive's homepage and try to navigate from there to the page you are looking for.
+einen Server von Google in den USA übertragen und dort gespeichert. Im  Falle der Aktivierung der IP-Anonymisierung auf dieser Webseite wird Ihre  IP-Adresse von Google jedoch innerhalb
+The ETH Zurich website partially fulfils the aforementioned standards. Partial conformance means that some sections are not fully compatible with the accessibility standard that the university strives for.
+Page Not Found
+Es gelten die allgemeinen rechtlichen Hinweise der ETH Zürich.
+Technische Hochschule ZürichAuthentication User | ETH Zurich
+Haftungsausschluss für Links
+problems. Please try again later.503 Service Temporarily Unavailable
+Mit der Benutzung dieser Webseite erklären Sie sich mit der Behandlung der über Sie erhobenen Daten durch Google in der zuvor beschriebenen Art und Weise und zu dem zuvor benannten Zweck ausdrücklich einverstanden.
+Be able to recognise clear, meaningful titles on each website that describe the topic/content as well as the owner.
+many documents available in PDF format and other non-HTML formats are not accessible, for instance, because they have not been structured properly and lack sufficient metadata.
+Try logging in again....ETH Zurich: Department of Biosystems
+on some pages, standard language is not used, and sometimes more than one language is used per page (German and English). This means that the screen reader cannot read out the content properly. WCAG success criterion 3.1.2 (language of parts) is not met in these instances.
+Internet device, however, some graphics will display correctly
+In the case of fundamental breach through the LICENSEE, this Agreement may be terminated by ETH Zurich at any time. On termination all copies of the Software have to be destroyed.
+Der unten aufgeführte Inhalt entspricht nicht mit dem angestrebten Konformitätsstatus; in Teilen ist der Webauftritt der ETH Zürich nicht vollständig barrierefrei. Beispielsweise
+Information for Speakers
+Die ETH Zürich bewertete die Barrierefreiheit des Webauftritts anhand folgender Ansätze:
+Each academic and administrative department publishes their own content on ethz.ch and is responsible for ensuring that accessibility criteria are met. We will update this statement once these issues are addressed.
+Move navigation right
+Increase spacing between lines, words, letters and paragraphs without limiting usability.
+← Back to VSETHVSETH › Log In
+only in the newer versions of Netscape. To get the most out of
+Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
+Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+Images and graphics are being regularly tagged with informative alt text.
+News & Veranstaltungen
+Zur Zeit arbeiten unsere Webserver nicht einwandfrei und Ihre Anfrage kann nicht verarbeitet werden. Bitte versuchen Sie es später nochmals.
+Be able to recognise information in breadcrumb lists by non-visual means.
+Ein zentrales Content Management System und ein Monitoring-Tool, die zusammen eine möglichst hohe Barrierefreiheit sicherstellen.
+© 2020  Eidgenössische
+404 Not Found
+ETH Zurich uses maps from map.search.ch for its location search. If you are searching for a location that does not yet appear on the map.search.ch maps, please go to www.ethz.ch/buildingorientation.
+ETH Zurich disclaims all liabilities. ETH Zurich shall not have any liability for any direct or indirect damage except for the provisions of the applicable law (article 100 OR [Schweizerisches Obligationenrecht]).
+Sorry, this page is only available to visitors with proper credentials.
+© 2018  Eidgenössische
+Any report or publication of results obtained by the Software has to be acknowledged by citing the publication listed under article 1.
+The ETH Zurich website is designed to be used by as many people as possible. They should be able to do the following things (not an exhaustive list):
+Oops! That page can’t be found.
+You are about to access the secure website service of ETH Zurich
+ETH Zurich closes university buildings – in-person exams will go ahead
+ist die Standardsprache ist auf einigen Seiten nicht korrekt eingehalten und manchmal werden mehrere Sprachen auf einer Seite verwendet (v.a. Deutsch und Englisch). Dies bedeutet, dass Screenreader den Inhalt nicht korrekt lesen können. Das WCAG-Erfolgskriterium 3.1.2 (Sprache von Teilen) ist in diesen Fällen nicht erfüllt.
+In Ihrem Browser können Sie Cookies in den Einstellungen jederzeit ganz oder teilweise deaktivieren. Bei deaktivierten Cookies stehen Ihnen allenfalls nicht mehr alle Funktionen dieser Website zur Verfügung.
+Some tables only have column headlines, even though row headlines would also be necessary (or vice versa). Sometimes they contain empty cells. This means that assistive technologies cannot read the tables correctly (linearisation). WCAG success criterion 1.3.1 (info and relationships) is not met in these instances.
+Telephone: +41 44 633 30 66
+HomePartnersRETHINK Board MembersContactSubscribe!
+This application requires JavaScript for correct operation.
+RV2 - Funicular form finding based on the COMPAS framework
+The current request could not be completed due to an internal error or misconfiguration.
+JavaScript has been disabled in your browserMembers – Probability Theory | ETH Zurich
+Der Autor übernimmt keinerlei Gewähr hinsichtlich der  inhaltlichen Richtigkeit, Genauigkeit, Aktualität, Zuverlässigkeit und  Vollständigkeit der Informationen.
+Ihre Kontaktdaten (E-Mail und Name).
+At ETH Zurich, we treat each other professionally and with mutual respect. We all share responsibility for this: professors, students, lecturers, as well as scientific, administrative and technical staff, and academic guests and visitors.
+Lost your password?
+external pageWCAG 2.1, conformance level AAcall_made
+← Back to dbtLog In ‹ dbt — WordPress
+!!! This document is stored in the ETH Web archive and is no longer maintained !!!ETH-W4: Zugriff-Analyse mit WebTrends
+externe SeiteeCH-0059 Accessibility-Standard Version 3.0call_made
+Additional limitations on the website
+Checking all technical upgrades for accessibility before implementation
+Bullying involves regular and systematic harassment over an extended period with the aim of discrediting, isolating or socially excluding a person or gradually driving them out of their job or study programme. Examples include putdowns and exclusion, withholding information, assignment of humiliating tasks and unjustified criticism.
+Telefon: +41 44 633 30 66
+© ETH Zurich Disclaimer: The views and opinions expressed in this blog do not necessarily reflect those of ETH Zurich. In addition, ETH Zurich is not responsible for the content of external links.Page not found – RETHINK
+Wir sind bemüht, Rückmeldungen innerhalb von 1 Wochen zu beantworten.
+Some headline structures are not consistent, e.g., some headline content is not formatted as such. This makes it difficult for users of screen readers to navigate the website. WCAG success criterion 1.3.1 (info and relationships) is not met in these instances.
+You can now save time spent logging in by connecting your WordPress.com account to CAAD. Blog.
+Wir entschuldigen uns dafür und danken Ihnen für Ihr Verständnis.
+The page you are looking for has been moved or deleted.
+Bei Problemen mit der Anmeldung, prüfen Sie bitte Ihr ETH-Passwort für Webapplikationen (LDAP) oder kontaktieren Sie den Servicedesk der ETH Informatikdienste.
+Verbinden von Netzlaufwerken
+The server is temporarily unable to service your
+We use cookies to help us give you the best possible user experience on our website. By continuing to browse the site you are agreeing to the use of cookies.
+The eCH-0059 Swiss accessibility standard makes reference to the WCAG and in some areas goes beyond it (e.g., making content available in sign language and Easy Language).
+Verhindern Sie einen Missbrauch! Löschen Sie den Cache Ihres Browsers (externe Seiteinsbesondere Cookiescall_made ) wenn Sie mit dem Browsen fertig sind.
+Campus404 Pagina non trovata
+Die in den Webauftritt integrierten Rauminformationen sind nicht barrierefrei bedienbar. Das System basiert auf einer visuellen Darstellung von Räumlichkeiten und enthält eine Fülle von Inhouse-Plänen. Mit assistierenden Technologien haben Sie möglicherweise keinen Zugang zu den Informationen, die in den Bildern vermittelt werden. Das WCAG-Erfolgskriterium 1.1.1 (Nicht-Text-Inhalt) ist in diesen Fällen nicht erfüllt.
+Für Anmeldung JavaScript aktivieren
+Über unsUntermenü anzeigen
+© Copyright 2017 Kulturerbe
+To get the most out of our site we suggest you upgrade to the latest
+© 2021  Eidgenössische Technische Hochschule ZürichAuthentication User | ETH Zurich
+All photographs are copyrighted.
+Seminars & Colloquia
+Skip to the content
+Eidgenössische Technische Hochschule Zürich404 Page not found
+Previously published PDF documents will not be made accessible. A disproportionate amount of effort would be required to correct this.
+Karten sind (gemäss eCH-0059) von den Vorgaben für Bilder und Grafiken ausgenommen. Die ETH Zürich ist gleichzeitig bemüht, wo immer möglich Alternativen zu Kartenmaterial anzubieten (beispielsweise Informationen zur Anreise).
+Despite our efforts to ensure accessibility to the ETH website, there may be some limitations. Below you will find a description of the limitations that we are already aware of along with possible solutions. Please contact us if you encounter an issue that is not listed here.
+Alle  Angebote sind unverbindlich. Der Autor behält es sich ausdrücklich vor, Teile  der Seiten oder das gesamte Angebot ohne gesonderte Ankündigung zu verändern,  zu ergänzen, zu
+Operate most of the website on a smartphone regardless of screen orientation (vertical or horizontal).
+Call for Submissions
+ETH Zurich is working to improve the accessibility of its website on an ongoing basis. The following measures support this goal:
+Apache/2.2.15 (Red Hat) Server at www.diederich.chem.ethz.ch Port 80Index of /lerner
+2. License of ETH Zurich
+JavaScript has been disabled in your browser
+!!! This document is stored in the ETH Web Archive and is no longer maintained !!!     Protect your brainwork.
+some third-party components integrated into the website do not offer accessible navigation, e.g., the podcast components,
+Website regelmässig benutzen, empfehlen wir Ihnen, auf
+Mittels Spracherkennung die Inhalte bedienen.
+Code of Conduct
+The content in this site is accessible only to new browsers
+sind einige von externen Anbietern eingebundene Komponenten nicht barrierefrei bedienbar, z.B. die Podcast-Komponente,
+Verankerung der Barrierefreiheit in unserem Leitbild
+ETH ZurichRepresented by Prof. Dr. Philippe Block(LICENSOR)andthe LICENSEE
+Diese Website verwendet Cookies. Cookies sind kleine Textdateien, die beim Besuch dieser Website in Ihrem Computer dauerhaft oder temporär gespeichert werden. Zweck der Cookies ist insbesondere die Analyse der Nutzung dieser Website zur statistischen Auswertung sowie für kontinuierliche Verbesserungen.
+You can now save time spent logging in by connecting your WordPress.com account to dbt.
+Information for Visitors
+Was braucht es für das Studium?
+E-Mail Anfragen bevorzugt
+Der Webauftritt der ETH Zürich soll für alle Menschen möglichst zugänglich sein. Die ETH Zürich legt nachfolgend transparent dar, inwiefern dies bereits der Fall ist, wo noch Hürden bestehen und welche Bereiche aus welchen Gründen nicht barrierefrei angeboten werden können.
+Die Veröffentlichenden übernehmen keinerlei Gewähr hinsichtlich der inhaltlichen Richtigkeit, Genauigkeit, Aktualität, Zuverlässigkeit und Vollständigkeit der Informationen. Haftungsansprüche gegen die Veröffentlichenden wegen Schäden materieller oder immaterieller Art, welche aus dem Zugriff oder der Nutzung bzw. Nichtnutzung der veröffentlichten Informationen, durch Missbrauch der Verbindung oder durch technische Störungen entstanden sind, werden ausgeschlossen. Alle Angebote sind unverbindlich. Die Veröffentlichenden behalten es sich ausdrücklich vor, Teile der Seiten oder das gesamte Angebot ohne besondere Ankündigung zu verändern, zu ergänzen, zu löschen oder die Veröffentlichung zeitweise oder endgültig einzustellen. Haftungsausschluss für Links Verweise und Links auf Webseiten Dritter liegen ausserhalb des Verantwortungsbereichs der Veröffentlichenden . Es wird jegliche Verantwortung für solche Webseiten abgelehnt. Der Zugriff und die Nutzung solcher Webseiten erfolgen auf eigene Gefahr der jeweiligen nutzenden Person. Urheberrechte Die Urheber- und alle anderen Rechte an Inhalten, Bildern, Fotos oder anderen Dateien auf den Webseiten der Veröffentlichenden, gehören ausschliesslich den Veröffentlichenden oder den speziell genannten Rechteinhabern. Für die Reproduktion jeglicher Elemente ist die schriftliche Zustimmung des Urheberrechtsträgers im Voraus einzuholen.
+Die Inhalte werden regelmässig mithilfe eines Monitoringtools überprüft. Dieses zeigt diejenigen Barrieren auf, die automatisiert überprüfbar sind. Wer Inhalte im Webauftritt der ETH Zürich veröffentlicht, ist dafür verantwortlich, dass diese den Bestimmungen zur Barrierefreiheit entsprechen. Das können Abteilungen, aber auch beauftragte externe Stellen sein. Darum haben die interne Sensibilisierung, klare Vorgaben sowie Schulungen hohe Priorität.
+Jedes Departement und jede Abteilung publiziert eigene Inhalte auf ethz.ch und ist verantwortlich dafür, dass die Anforderungen an die Barrierefreiheit eingehalten werden. Wir werden diese Erklärung aktualisieren, wenn Mängel behoben sind.
+© 2022  Eidgenössische Technische Hochschule ZürichAuthentication User | ETH Zurich
+500 Internal server error
+Sie sind dabei, auf den gesicherten Website-Dienst der ETH Zürich zuzugreifen.
+Application & Admission
+Die vorliegende Zugänglichkeitserklärung wurde genehmigt von: ETH Zürich, Hochschulkommunikation, Kontaktstelle für Accessibility-Anliegen
+Measures to promote accessibility
+Illustration of research priorities
+Maps are an exception to the guidelines for images and graphics (according to eCH-0059). However, we will make an effort to offer alternative information wherever possible (for instance, how to get to a certain place at ETH).
+All images are copyrighted.
+These technologies have been chosen due to their conformance with our accessibility standards.
+Die Zugänglichkeit des Webauftritts hängt von den folgenden Technologien ab, die mit der jeweiligen Kombination von Webbrowser und eventuellen unterstützenden Technologien oder Plugins, die auf Ihrem Computer installiert sind, funktionieren:
+ETH Zurich takes the following measures to ensure the accessibility of its website:
+You can get in touch with us in one of the following ways:
+Einige Überschriftenstrukturen sind nicht konsistent, z.B. sind einige Inhalte nicht als Überschriften formatiert, obwohl es sich um Überschriften handelt. Dies macht es für Screenreaderuser schwierig, auf der Seite zu navigieren. Das WCAG-Erfolgskriterium 1.3.1 (Info und Beziehungen) ist in diesen Fällen nicht erfüllt.
+This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.
+Kontinuierliche Schulung der Mitarbeitenden in Sachen Barrierefreiheit
+Discrimination of people because of actual, attributed or group-​specific characteristics such as nationality; ethnic origin; gender; age; language; social status; lifestyle; religious, ideological or political views; sexual orientation and gender identity; physical, intellectual or psychological impairment; or professional status.
+Please try again in a few minutes or contact the ETH IT Services and refer to the below error code.
+b. Reproduction Reproduction is prohibited except for the provisions of the applicable law (article 21 URG [Bundesgesetz über das Urheberrecht, SR 231.1]).
+Alle Inhalte, die für das Studium und die Arbeit an der ETH Zürich relevant sind, haben höchste Priorität.
+Den Namen, die Rolle und den Status der meisten Widgets und Komponenten barrierefrei vermittelt bekommen.
+Protect your privacy!
+some buttons are not properly identifiable,
+the web address (URL) of the content and
+Formal approval of this Accessibility Statement
+and the actions you performed just before this error.
+Jobs & Praktika
+For Master Students
+About the event
+Die von Ihnen gewünschte Seite kann nicht angezeigt werden. Dies kann folgende Ursachen haben:
+Pagina non trovata
+some pages cannot be found via several means of navigation (e.g., search and menus). WCAG success criterion 2.4.5 (multiple ways) is not met in these instances.
+Launch Meeting - Zoom
+Conferences & Symposia
+Former project members
+Circumvent or skip over sections (e.g., navigation, header) with a keyboard. See a visual display of jump links while doing so.
+Inhalte von Google Maps werden aufgrund deiner aktuellen Cookie-Einstellungen nicht angezeigt. Klicke auf die Cookie-Richtlinie (Funktionell), um den Cookie-Richtlinien von Google Maps zuzustimmen und den Inhalt anzusehen. Mehr dazu erfährst du in der Google Maps Datenschutzerklärung.
+© 2022  Eidgenössische
+content you are seeking by clicking here.
+Setting clear targets and assigning clear ownership of accessibility issues
+Hinweise und Störungsmeldungen für diese Website richtest du bitte an kommunikation@asvz.ch.
+d. Distribution Assignment to a third party is prohibited.
+Teaching and learning
+Im Hochkontrastmodus die Inhalte bedienen.
+© Copyright 2019 ETH Library
+Scientific texts, research findings and information about studying, working or completing a doctorate at ETH Zurich will not be offered in Plain English, Easy English or sign language. A disproportionate amount of effort would be required to do so.
+Auftrag von Google verarbeiten. Die im  Rahmen von Google Analytics von Ihrem Browser übermittelte IP-Adresse wird  nicht mit anderen Daten von Google zusammengeführt.
+Adresse: Hochschulkommunikation, Rämistrasse 101, 8092 Zürich
+Fügen Sie diese URL in Ihre WordPress-Website ein, um sie einzubetten
+Shared Calendar & Mailbox
+Javascript is required to load this page.
+Actions through which other people are assaulted, threatened, or physically or psychologically harmed during the course of their studies or work. These include verbal and non verbal insults, humiliation, threats and abuse, social exclusion or the deliberate and persistent stalking or harassment of a person.
+News & Events
+Massnahmen zur Unterstützung der Barrierefreiheit
+Missbrauch der  Verbindung oder durch technische Störungen entstanden sind, werden ausgeschlossen.
+Formelle Genehmigung dieser Barrierefreiheitserklärung
+© 2024  Eidgenössische
+there are some animated graphics that cannot be hidden, paused or stopped,
+Menü nach rechts schieben
+there are virtually no videos with audio descriptions,
+No Widgets found in the Sidebar Alt!
+Der Webauftritt der ETH Zürich erfüllt die obgenannten Standards teilweise. Teilweise Konformität bedeutet, dass einige Teile des Inhalts nicht vollständig mit dem angestrebten Standard für Barrierefreiheit übereinstimmen.
+Den grössten Teil des Webauftritts mit einem Screenreader bedienen (inkl. der aktuellen Versionen von JAWS, NVDA, VoiceOver und TalkBack).
+We communicate openly with each other in a spirit of goodwill. Conflicts are resolved in a fair and objective manner to produce an effective solution. Our culture is built on trust and we welcome constructive criticism. We support an open management culture based on dialogue.
+Unzureichende Kontrastverhältnisse in Texten und Bildern werden nachgebessert. Die Corporate-Farben der ETH Zürich entsprechen den Vorgaben der WCAG. Werden diese korrekt eingesetzt, entstehen keine unzureichenden Kontrastverhältnisse.
+org.apache.sling.api.resource.PersistenceException: Resource at '/content/utils/login/en' is not modifiable.
+JavaScript wurde auf Ihrem Browser deaktiviert
+To the top ↑
+The room information on the website does not comply with accessibility standards. The system is based on a visual depiction of the premises and contains a multitude of in-house floor plans. Assistive technologies may not be able to grant users access to the information conveyed in these images. WCAG success criterion 1.1.1 (non-text content) is not met in this instance.
+Please contact the server administrator at
+Read most of the website using a screen reader (including the latest versions of JAWS, NVDA, VoiceOver and TalkBack).
+Ongoing optimisation efforts
+Please update your browser. The correct representation of this website can not be guaranteed in this browser. Learn more.
+The document has moved here.302 Found
+Any behaviour that adversely affects the dignity of persons studying or working at the university. This includes sexist jokes; suggestive, disparaging or contemptuous remarks or actions; displaying or disseminating pornographic material; undesired physical contact or the exploitation of a dependent relationship.
+© 2021  Eidgenössische
+Navigate without a mouse or other pointing device (by keyboard only). Keyboard selection should be easily visible, and the sequence of keyboard navigation should be logical.
+Drücken Sie Eingabetaste um den Bildschirmleser-Modus zu aktivieren.
+The ETH Zurich website should be as accessible as possible for everyone. In the sections below, ETH Zurich provides a transparent overview of what is already accessible, where there are still obstacles, and which content cannot be made accessible and why.
+Internal Server Error
+Der Inhalt dieser Website wird mit grösstmöglicher Sorgfalt gepflegt. Der ASVZ übernimmt jedoch keine Haftung für den Inhalt. Druckfehler, Irrtümer und Änderungen sind vorbehalten. Haftungsansprüche gegen den ASVZ, welche sich auf Schäden materieller oder ideeller Art beziehen, die durch die Nutzung oder Nichtnutzung der dargebotenen Informationen bzw. durch die Nutzung fehlerhafter und/oder unvollständiger Informationen verursacht wurden, sind grundsätzlich ausgeschlossen. Der ASVZ behält es sich vor, Teile der Website oder das gesamte Angebot ohne gesonderte Ankündigung zu verändern, zu ergänzen, zu löschen oder die Veröffentlichung zeitweise oder endgültig einzustellen. Auch für die Inhalte verlinkter Seiten übernimmt der ASVZ keine Haftung. Dafür sind ausschliesslich deren Betreiber verantwortlich.
+there is virtually no content available in sign language,
+Die Zwischenspeicherung in einem Cache oder auf einem Proxy-​Server zur Optimierung der Zugriffsgeschwindigkeit ist gestattet. Das Zitieren der Dokumente und Webseiten unter korrekten Quellenangaben sowie das Setzen von Links auf unsere Website ist ausdrücklich erlaubt.
+Finden Sie die gewünschte Website via die Webarchiv-Startseite und versuchen Sie von deren Einstiegsseite aus zum gesuchten Dokument zu navigieren.
+Blöcke wie Navigation und Header mit der Tastatur umgehen bzw. überspringen können. Dabei werden die Sprunglinks auch visuell dargestellt.
+sind viele Dokumente im PDF-Format und in anderen Nicht-HTML-Dateitypen gehalten und nicht barrierefrei, z.B. wegen fehlender Dokumentstruktur und ungenügender Metadaten.
+sind einzelne Fehlermeldungen in Formularen nicht informativ und nicht mit den jeweiligen Feldern verknüpft,
+ETH Zurich evaluates the accessibility of its website using the following methods:
+Informationen finden Sie auf
+There is an error in the URL entered into your web browser. Please check the URL and try again.
+il bookmark utilizzato è obsoletola pagina è stata rinominata o cancellatal’indirizzo / l’URL è stato digitato in maniera non correttaPuò provare a trovare il contenuto desiderato attraverso il nostro Sito web oppure la Funzione di ricerca.
+← Back to CAAD. BlogLog In ‹ CAAD. Blog — WordPress
+Informationen wahrnehmen können, unabhängig von Farbsehschwächen und ohne von blitzenden Elementen gestört zu werden.
+Content is regularly reviewed with the help of a monitoring tool. This tool flags the kind of accessibility barriers that can be checked automatically. Whoever publishes information on ethz.ch – either departments or contracted third parties – is responsible for ensuring that their content is in accordance with the accessibility guidelines. For this reason, we are prioritising internal awareness raising, putting out clear guidelines and offering courses and training.
+Links and Downloads
+Schützen Sie Ihre Privatsphäre!
+a. UseThe Software may be used for commercial and/or non-commercial purposes.  The LICENSEE retains all rights to results from such use.The LICENSEE and/or its employees may use the Software by himself/themselves, only.
+ETH password for web applications (LDAP) *
+solcher Webseiten erfolgen  auf eigene Gefahr des Nutzers oder der Nutzerin.
+The page you want to visit cannot be displayed. This could happen for one of the following reasons:
+This statement has been approved by: ETH Zurich, Corporate Communications, Accessibility Office.
+sind fast keine Videos mit Audiodeskriptionen verfügbar,
+können einige Seiten nicht durch mehrere Navigationsarten (z.B. Suche und Menüstruktur) gefunden werden. Das WCAG-Erfolgskriterium 2.4.5 (Verschiedene Methoden) ist in diesen Fällen nicht erfüllt.
+Der Webauftritt der ETH Zürich ist so aufbereitet, dass er von möglichst vielen Menschen genutzt werden kann. Sie sollten z.B. folgende Dinge tun können:
+On some pages the graphics do not always have appropriate alternative text. Assistive technologies may not be able to grant users access to the information conveyed in these images. WCAG success criterion 1.1.1 (non-text content) is not met in these instances.
+The “Software” shall be considered the compiled RV2 plugin to the Rhinoceros® software of Robert McNeel and Associates, Seattle, and the corresponding documentation to RV2. For the avoidance of doubt, Rhinoceros® shall not be considered part of RV2 and/or the Software and it is the LICENSEE’s responsibility to obtain the necessary Rhinoceros® license. Source code shall not be considered part of the Software.
+Table of contents and legal
+The page you were looking for could not be found. It might have been removed, renamed, or did not exist in the first place.
+Weitere punktuelle Einschränkungen im Webauftritt
+Verweise und Links auf Webseiten  Dritter liegen ausserhalb unseres Verantwortungsbereichs Es wird jegliche Verantwortung für solche Webseiten abgelehnt.  Der Zugriff und die Nutzung
+Verhindern Sie einen Missbrauch! Löschen Sie den Cache Ihres Browsers (externe Seite insbesondere Cookies ) wenn Sie mit dem Browsen fertig sind.
+Error while processing /content/utils/login/en
+werden und  die eine Analyse der Benutzung der Website durch Sie ermöglichen. Die durch den Cookie erzeugten Informationen über Ihre Benutzung dieser Website werden in der  Regel an
+Information for Current Students
+6. Maintenance, support, upgrades or new releases
+Information for Students
+Alternative: Wir bieten Menschen mit Sehbehinderungen die Möglichkeit, sie zur Verfügbarkeit und Ausstattung der Räume an der ETH telefonisch oder per E-Mail zu beraten. Ebenfalls können wir diese Buchungen manuell gemäss Absprache (telefonisch oder per E-Mail) für sie buchen. Rufen Sie uns an unter Raumreservation, Tel. +41 44 632 20 69 oder melden Sie sich per E-Mail bei .
+Ihrem Computer einen aktuellen Browser zu installieren. Weitere
+Be able to identify the names, roles and status of most widgets and components on the site in an accessible way.
+© 2020  Eidgenössische Technische Hochschule ZürichAuthentication User | ETH Zurich
+Incorrectly structured content (text, lists, tables) is checked on an ongoing basis with the assistance of the aforementioned monitoring tool.
+Alle Angebote sind unverbindlich. Der Autor behält es sich ausdrücklich vor, Teile der Seiten oder das gesamte Angebot ohne besondere Ankündigung zu verändern, zu ergänzen, zu löschen oder die Veröffentlichung zeitweise oder endgültig einzustellen.
+ETH Zurich homepage
+Zoom to 400% without any problems.
+We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking “Accept All”, you consent to the use of ALL the cookies. However, you may visit "Cookie Settings" to provide a controlled consent.Cookie SettingsAccept AllManage consent
+This Agreement as well as any and all matters arising out of it shall exclusively be governed by and interpreted in accordance with the laws of Switzerland, excluding its principles of conflict of laws.
+You can return to our homepage by clicking here, or you can try searching for the
+The Group is situated in the top two floors of the LAB building inside the USI campus. Further information can be found here.
+Raum-Reservierung via Apple Kalender
+© 2023  Eidgenössische
+Alternative: We offer phone and email advice to people with visual impairments who need information about the availability or equipment status of the rooms at ETH. We can also manually make bookings on their behalf (by phone or email). Give us a call: Room Request, telephone: +41 44 632 20 69, or send us an email to .
+Für den Webauftritt der ETH Zürich stellen die Abteilungen «Hochschulkommunikation» und «Informatikdienste» die Infrastruktur und das CMS zur Verfügung. Für die Inhalte verantwortlich sind jeweils die im Impressum genannten Stellen. Grundsätzlich gelten diese Bestrebungen für alle Webseiten der ETH Zürich
+Address: Corporate Communications, Rämistrasse 101, 8092 Zurich
+Für Anmeldung JavaScript akivieren
+Wir freuen uns über Ihr Feedback zur Zugänglichkeit des ETH-Webauftritts. Teilen Sie uns mit, wenn Sie im Webauftritt der ETH Zürich auf Barrieren stossen. Melden Sie uns bitte:
+sind keine Inhalte in einfacher oder Leichter Sprache verfügbar,
+Diese Website benutzt Google Analytics, einen Webanalysedienst der  Google Inc. ("Google"). Google Analytics verwendet sog.  "Cookies", Textdateien, die auf Ihrem Computer gespeichert
+Was ist für das Studium erforderlich?
+doesn't work properly without JavaScript enabled
+some forms have error messages that are not informative and not linked to the field in question,
+There are graphics with complex content integrated into news announcements and on pages that focus on research topics. We make an effort to make this complex content part of the accompanying text as precisely as possible. Alternative text may potentially not do justice to the complexity of the content.
+Impressum | Datenschutz | Cookie-Richtlinie | Sitemap
+Inhaltsverzeichnis und Rechtliches
+Error 404 - Not Found
+The Corporate Communications and IT Services departments provide the infrastructure and the CMS for the ETH Zurich website. The parties responsible for the content are listed in the publishing information. These efforts generally apply to all ETH Zurich websites.
+Internal server error
+If you experience problems with the login, check your ETH password for web applications (LDAP) or contact the ETH ITS Service Desk.
+Press Enter to activate screen reader mode.
+We couldn't find the page you were looking for. This is either because:
+warranty of merchantability, satisfactory quality and fitness for a particular purpose
+the bookmark used is no longer validthe page has been renamed or removedthe address/URL entered is invalidPlease use our homepage or the search to find the content you are looking for.
+Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+GO TO HOMEPAGE
+Faculty and Staff
+Raum-Reservierung in Outlook
+Die gesuchte Seite existiert nicht.
+Login with Shibboleth
+Barrierefreiheitserklärung für den Webauftritt der ETH Zürich
+Be able to identify and navigate webpage sections (e.g., header, navigation, footer) by non-visual means.
+RhinoVAULT 2 (RV2) is a software package for structural form finding using the Thrust Network Approach (TNA) to intuitively create and explore compression-only structures. RV2 was developed by the Block Research Group.
+Massnahmen zur Unterstützung der Barrierefreiheitchevron_right
+Information for Hosts
+Publications & Awards
+Verhindern Sie einen Missbrauch! Löschen Sie den Cache Ihres Browsers (insbesondere Cookies ) wenn Sie mit dem Browsen fertig sind.
+das verwendete Lesezeichen ist veraltetdie Seite wurde umbenannt oder gelöschtdie Adresse/URL wurde falsch eingegebenVersuchen Sie den gewünschten Inhalt über unsere Homepage oder die Suchfunktion zu finden.
+Wenn Sie diese Website regelmässig benutzen, empfehlen wir Ihnen, auf Ihrem Computer einen aktuellen Browser, z.B Firefox zu installieren.
+Kontakt AMIV an der ETHCAB E 37Universitätstrasse 68092 Zürich +41 44 632 64 67info@amiv.ethz.ch Die Räumlichkeiten des AMIV befinden sich im Gebäude CAB, E-Stock, im Zentrum der ETH Zürich. Gewisse Dienstleistungen des AMIV wurden im Laufe der Zeit in eigene Kommissionen ausgelagert. Dies umfasst unsere Fachvereins-Zeitschrift Blitz, die Bastler (mit eigenem Bauteile-Laden und Messplatz) vom Bastli, eine eigene Bier-Braukommission, ein "Local Committee" des europäischen Netzwerks EESTEC, die Amateur-Funker von der Funkbude sowie das Organisationskomitee der AMIV-Firmenmesse Kontakt. Zudem gibt es diverse Kommissionen, welche sich für Studierende von spezialisierten Mastern einsetzen. Wie werde ich Mitglied beim AMIV Als Studentin oder Student der Departemete D-ITET und D-MAVT wird man Mitglied beim AMIV (gemäss den Statuten), indem man Mitglied des VSETH ist. Um Mitglied beim VSETH zu werden, muss einzig der Semesterbeitrag bezahlt werden (CHF 10.-). Dazu musst du einfach bei der Online-Einschreibung via myStudies das entsprechende Häkchen setzen, wenn man sich für ein weiteres Semester einschreibt. Solltest du diesen Haken vergessen haben, aber dennoch noch Mitglied beim AMIV werden, so kannst du dich einfach kurz beim Vorstand melden, dieser wird dir dann das weitere Vorgehen erklären. Von den CHF 10.- Studierenden-Beitrag fliesst der grösste Teil in die Kasse des AMIV. Je mehr Studierende also Mitglied beim VSETH sind, desto mehr Mittel haben wir zur Verfügung während des Semesters, um dir coole Events und seriöse Dienstleistungen zu bieten. Hast du ein Problem festgestellt? Melde einen Fehler© 1893 - 2025 AMIV an der ETH Kontakt / ImpressumJobs | AMIV an der ETHInfoÜber AMIVVorstandTeamsMerchStatutenProtokolleGeneralversammlungenEventsStudiumStudienunterlagenHow to ErstiTA AwardStudent for a DayAlte StudienunterlagenExterne AngeboteJobsSponsoringKontaktmesseIndustry TalksendeInfoÜber AMIVVorstandTeamsMerchStatutenProtokolleGeneralversammlungenEventsStudiumStudienunterlagenHow to ErstiTA AwardStudent for a DayAlte StudienunterlagenExterne AngeboteJobsSponsoringKontaktmesseIndustry TalksendeJavaScript wird für diese Webseite benötigt. Bitte aktivieren Sie JavaScript und laden Sie die Seite neu.Filter anzeigenZurücksetzenMöchten Sie ein Jobinserat auf unserer Webseite bewerben? Dann melden Sie sich unter jobboerse@amiv.ethz.ch.Maschinenbauingenieur:in – Bioreaktorentwicklung für kultiviertes Fleischvor 39 Tagen veröffentlichtSoftware-Entwicklungsingenieur/in (80–100%)vor 41 Tagen veröffentlichtPraktikum Ingenieurwesen – Revolutioniere die lüfterlose Kühlungvor 45 Tagen veröffentlichtRobotics Internvor 62 Tagen veröffentlichtRobotics Engineervor 62 Tagen veröffentlichtMasterarbeit / Praktikum Wasserstoffmesssystem vor 62 Tagen veröffentlichtPraktikant:in Smart Grid / Smart Energy (100%)vor 69 Tagen veröffentlichtPraktikant:in Erneuerbare Energien mit Fokus auf Digitalisierung & Reporting 40-80%vor 82 Tagen veröffentlichtHast du ein Problem festgestellt? Melde einen Fehler© 1893 - 2025 AMIV an der ETH Kontakt / ImpressumJobs | AMIV an der ETHInfoÜber AMIVVorstandTeamsMerchStatutenProtokolleGeneralversammlungenEventsStudiumStudienunterlagenHow to ErstiTA AwardStudent for a DayAlte StudienunterlagenExterne AngeboteJobsSponsoringKontaktmesseIndustry TalksendeInfoÜber AMIVVorstandTeamsMerchStatutenProtokolleGeneralversammlungenEventsStudiumStudienunterlagenHow to ErstiTA AwardStudent for a DayAlte StudienunterlagenExterne AngeboteJobsSponsoringKontaktmesseIndustry TalksendeJavaScript wird für diese Webseite benötigt. Bitte aktivieren Sie JavaScript und laden Sie die Seite neu.Filter anzeigenZurücksetzenMöchten Sie ein Jobinserat auf unserer Webseite bewerben? Dann melden Sie sich unter jobboerse@amiv.ethz.ch.Maschinenbauingenieur:in – Bioreaktorentwicklung für kultiviertes Fleischvor 39 Tagen veröffentlichtSoftware-Entwicklungsingenieur/in (80–100%)vor 41 Tagen veröffentlichtPraktikum Ingenieurwesen – Revolutioniere die lüfterlose Kühlungvor 45 Tagen veröffentlichtRobotics Internvor 62 Tagen veröffentlichtRobotics Engineervor 62 Tagen veröffentlichtMasterarbeit / Praktikum Wasserstoffmesssystem vor 62 Tagen veröffentlichtPraktikant:in Smart Grid / Smart Energy (100%)vor 69 Tagen veröffentlichtPraktikant:in Erneuerbare Energien mit Fokus auf Digitalisierung & Reporting 40-80%vor 82 Tagen veröffentlichtHast du ein Problem festgestellt? Melde einen Fehler© 1893 - 2025 AMIV an der ETH Kontakt / ImpressumJobs | AMIV an der ETHInfoÜber AMIVVorstandTeamsMerchStatutenProtokolleGeneralversammlungenEventsStudiumStudienunterlagenHow to ErstiTA AwardStudent for a DayAlte StudienunterlagenExterne AngeboteJobsSponsoringKontaktmesseIndustry TalksendeInfoÜber AMIVVorstandTeamsMerchStatutenProtokolleGeneralversammlungenEventsStudiumStudienunterlagenHow to ErstiTA AwardStudent for a DayAlte StudienunterlagenExterne AngeboteJobsSponsoringKontaktmesseIndustry TalksendeJavaScript wird für diese Webseite benötigt. Bitte aktivieren Sie JavaScript und laden Sie die Seite neu.Filter anzeigenZurücksetzenMöchten Sie ein Jobinserat auf unserer Webseite bewerben? Dann melden Sie sich unter jobboerse@amiv.ethz.ch.Maschinenbauingenieur:in – Bioreaktorentwicklung für kultiviertes Fleischvor 38 Tagen veröffentlichtSoftware-Entwicklungsingenieur/in (80–100%)vor 40 Tagen veröffentlichtPraktikum Ingenieurwesen – Revolutioniere die lüfterlose Kühlungvor 44 Tagen veröffentlichtRobotics Internvor 61 Tagen veröffentlichtRobotics Engineervor 61 Tagen veröffentlichtMasterarbeit / Praktikum Wasserstoffmesssystem vor 61 Tagen veröffentlichtPraktikant:in Smart Grid / Smart Energy (100%)vor 68 Tagen veröffentlichtPraktikant:in Erneuerbare Energien mit Fokus auf Digitalisierung & Reporting 40-80%vor 81 Tagen veröffentlichtHast du ein Problem festgestellt? Melde einen Fehler© 1893 - 2025 AMIV an der ETH Kontakt / ImpressumJobs | AMIV an der ETHInfoÜber AMIVVorstandTeamsMerchStatutenProtokolleGeneralversammlungenEventsStudiumStudienunterlagenHow to ErstiTA AwardStudent for a DayAlte StudienunterlagenExterne AngeboteJobsSponsoringKontaktmesseIndustry TalksendeInfoÜber AMIVVorstandTeamsMerchStatutenProtokolleGeneralversammlungenEventsStudiumStudienunterlagenHow to ErstiTA AwardStudent for a DayAlte StudienunterlagenExterne AngeboteJobsSponsoringKontaktmesseIndustry TalksendeJavaScript wird für diese Webseite benötigt. Bitte aktivieren Sie JavaScript und laden Sie die Seite neu.Filter anzeigenZurücksetzenMöchten Sie ein Jobinserat auf unserer Webseite bewerben? Dann melden Sie sich unter jobboerse@amiv.ethz.ch.Maschinenbauingenieur:in – Bioreaktorentwicklung für kultiviertes Fleischvor 38 Tagen veröffentlichtSoftware-Entwicklungsingenieur/in (80–100%)vor 40 Tagen veröffentlichtPraktikum Ingenieurwesen – Revolutioniere die lüfterlose Kühlungvor 44 Tagen veröffentlichtRobotics Internvor 61 Tagen veröffentlichtRobotics Engineervor 61 Tagen veröffentlichtMasterarbeit / Praktikum Wasserstoffmesssystem vor 61 Tagen veröffentlichtPraktikant:in Smart Grid / Smart Energy (100%)vor 68 Tagen veröffentlichtPraktikant:in Erneuerbare Energien mit Fokus auf Digitalisierung & Reporting 40-80%vor 81 Tagen veröffentlichtHast du ein Problem festgestellt? Melde einen Fehler© 1893 - 2025 AMIV an der ETH Kontakt / ImpressumJobs | AMIV an der ETHInfoÜber AMIVVorstandTeamsMerchStatutenProtokolleGeneralversammlungenEventsStudiumStudienunterlagenHow to ErstiTA AwardStudent for a DayAlte StudienunterlagenExterne AngeboteJobsSponsoringKontaktmesseIndustry TalksendeInfoÜber AMIVVorstandTeamsMerchStatutenProtokolleGeneralversammlungenEventsStudiumStudienunterlagenHow to ErstiTA AwardStudent for a DayAlte StudienunterlagenExterne AngeboteJobsSponsoringKontaktmesseIndustry TalksendeJavaScript wird für diese Webseite benötigt. Bitte aktivieren Sie JavaScript und laden Sie die Seite neu.Filter anzeigenZurücksetzenMöchten Sie ein Jobinserat auf unserer Webseite bewerben? Dann melden Sie sich unter jobboerse@amiv.ethz.ch.Maschinenbauingenieur:in – Bioreaktorentwicklung für kultiviertes Fleischvor 39 Tagen veröffentlichtSoftware-Entwicklungsingenieur/in (80–100%)vor 41 Tagen veröffentlichtPraktikum Ingenieurwesen – Revolutioniere die lüfterlose Kühlungvor 45 Tagen veröffentlichtRobotics Internvor 62 Tagen veröffentlichtRobotics Engineervor 62 Tagen veröffentlichtMasterarbeit / Praktikum Wasserstoffmesssystem vor 62 Tagen veröffentlichtPraktikant:in Smart Grid / Smart Energy (100%)vor 69 Tagen veröffentlichtPraktikant:in Erneuerbare Energien mit Fokus auf Digitalisierung & Reporting 40-80%vor 82 Tagen veröffentlichtHast du ein Problem festgestellt? Melde einen Fehler© 1893 - 2025 AMIV an der ETH Kontakt / ImpressumJobs | AMIV an der ETHInfoÜber AMIVVorstandTeamsMerchStatutenProtokolleGeneralversammlungenEventsStudiumStudienunterlagenHow to ErstiTA AwardStudent for a DayAlte StudienunterlagenExterne AngeboteJobsSponsoringKontaktmesseIndustry TalksendeInfoÜber AMIVVorstandTeamsMerchStatutenProtokolleGeneralversammlungenEventsStudiumStudienunterlagenHow to ErstiTA AwardStudent for a DayAlte StudienunterlagenExterne AngeboteJobsSponsoringKontaktmesseIndustry TalksendeJavaScript wird für diese Webseite benötigt. Bitte aktivieren Sie JavaScript und laden Sie die Seite neu.Filter anzeigenZurücksetzenMöchten Sie ein Jobinserat auf unserer Webseite bewerben? Dann melden Sie sich unter jobboerse@amiv.ethz.ch.Maschinenbauingenieur:in – Bioreaktorentwicklung für kultiviertes Fleischvor 34 Tagen veröffentlichtSoftware-Entwicklungsingenieur/in (80–100%)vor 36 Tagen veröffentlichtPraktikum Ingenieurwesen – Revolutioniere die lüfterlose Kühlungvor 40 Tagen veröffentlichtRobotics Internvor 57 Tagen veröffentlichtRobotics Engineervor 57 Tagen veröffentlichtMasterarbeit / Praktikum Wasserstoffmesssystem vor 57 Tagen veröffentlichtPraktikant:in Smart Grid / Smart Energy (100%)vor 64 Tagen veröffentlichtPraktikant:in Erneuerbare Energien mit Fokus auf Digitalisierung & Reporting 40-80%vor 77 Tagen veröffentlichtHast du ein Problem festgestellt? Melde einen Fehler© 1893 - 2025 AMIV an der ETH Kontakt / ImpressumJobs | AMIV an der ETHInfoÜber AMIVVorstandTeamsMerchStatutenProtokolleGeneralversammlungenEventsStudiumStudienunterlagenHow to ErstiTA AwardStudent for a DayAlte StudienunterlagenExterne AngeboteJobsSponsoringKontaktmesseIndustry TalksendeInfoÜber AMIVVorstandTeamsMerchStatutenProtokolleGeneralversammlungenEventsStudiumStudienunterlagenHow to ErstiTA AwardStudent for a DayAlte StudienunterlagenExterne AngeboteJobsSponsoringKontaktmesseIndustry TalksendeJavaScript wird für diese Webseite benötigt. Bitte aktivieren Sie JavaScript und laden Sie die Seite neu.Filter anzeigenZurücksetzenMöchten Sie ein Jobinserat auf unserer Webseite bewerben? Dann melden Sie sich unter jobboerse@amiv.ethz.ch.Maschinenbauingenieur:in – Bioreaktorentwicklung für kultiviertes Fleischvor 39 Tagen veröffentlichtSoftware-Entwicklungsingenieur/in (80–100%)vor 41 Tagen veröffentlichtPraktikum Ingenieurwesen – Revolutioniere die lüfterlose Kühlungvor 45 Tagen veröffentlichtRobotics Internvor 62 Tagen veröffentlichtRobotics Engineervor 62 Tagen veröffentlichtMasterarbeit / Praktikum Wasserstoffmesssystem vor 62 Tagen veröffentlichtPraktikant:in Smart Grid / Smart Energy (100%)vor 69 Tagen veröffentlichtPraktikant:in Erneuerbare Energien mit Fokus auf Digitalisierung & Reporting 40-80%vor 82 Tagen veröffentlichtHast du ein Problem festgestellt? Melde einen Fehler© 1893 - 2025 AMIV an der ETH Kontakt / ImpressumImpressum | AMIV an der ETHInfoÜber AMIVVorstandTeamsMerchStatutenProtokolleGeneralversammlungenEventsStudiumStudienunterlagenHow to ErstiTA AwardStudent for a DayAlte StudienunterlagenExterne AngeboteJobsSponsoringKontaktmesseIndustry TalksendeInfoÜber AMIVVorstandTeamsMerchStatutenProtokolleGeneralversammlungenEventsStudiumStudienunterlagenHow to ErstiTA AwardStudent for a DayAlte StudienunterlagenExterne AngeboteJobsSponsoringKontaktmesseIndustry TalksendeJavaScript wird für diese Webseite benötigt. Bitte aktivieren Sie JavaScript und laden Sie die Seite neu.Impressum Kontakt / Postanschrift AMIV an der ETH CAB E37 Universitätstrasse 6 8092 Zürich Switzerland info@amiv.ethz.ch +41 (0)44 / 632 64 67 Haftungsausschluss Der Autor übernimmt keinerlei Gewähr hinsichtlich der inhaltlichen Richtigkeit, Genauigkeit, Aktualität, Zuverlässigkeit und Vollständigkeit der Informationen. Haftungsansprüche gegen den Autor wegen Schäden materieller oder immaterieller Art, welche aus dem Zugriff oder der Nutzung bzw. Nichtnutzung der veröffentlichten Informationen, durch Missbrauch der Verbindung oder durch technische Störungen entstanden sind, werden ausgeschlossen. Alle Angebote sind unverbindlich. Der Autor behält es sich ausdrücklich vor, Teile der Seiten oder das gesamte Angebot ohne besondere Ankündigung zu verändern, zu ergänzen, zu löschen oder die Veröffentlichung zeitweise oder endgültig einzustellen. Verweise und Links auf Webseiten Dritter liegen ausserhalb unseres Verantwortungsbereichs. Es wird jegliche Verantwortung für solche Webseiten abgelehnt. Der Zugriff und die Nutzung solcher Webseiten erfolgen auf eigene Gefahr des jeweiligen Nutzers. Urheberrechte Die Urheber- und alle anderen Rechte an Inhalten, Bildern, Fotos oder anderen Dateien auf der Website gehören ausschliesslich dem «AMIV an der ETH» oder den speziell genannten Rechtsinhabern. Für die Reproduktion jeglicher Elemente ist die schriftliche Zustimmung der Urheberrechtsträger im Voraus einzuholen. Hast du ein Problem festgestellt? Melde einen Fehler© 1893 - 2025 AMIV an der ETH Kontakt / ImpressumVorstand | AMIV an der ETHInfoÜber AMIVVorstandTeamsMerchStatutenProtokolleGeneralversammlungenEventsStudiumStudienunterlagenHow to ErstiTA AwardStudent for a DayAlte StudienunterlagenExterne AngeboteJobsSponsoringKontaktmesseIndustry TalksendeInfoÜber AMIVVorstandTeamsMerchStatutenProtokolleGeneralversammlungenEventsStudiumStudienunterlagenHow to ErstiTA AwardStudent for a DayAlte StudienunterlagenExterne AngeboteJobsSponsoringKontaktmesseIndustry TalksendeJavaScript wird für diese Webseite benötigt. Bitte aktivieren Sie JavaScript und laden Sie die Seite neu.Es wird nur der aktuelle Vorstand angezeigt. Zeige vorherige Vorstände.VorstandPräsidiumSonja MerkleMit Sonja Merkle haben wir eine Präsidentin gefunden, die eine Bilderbuch-Karriere im AMIV hingelegt hat. Aus der Maschinenbau-Hochburg Stuttgart angereist, positionierte sich Sonja schon in der ersten Woche als helles Sternchen am AMIV Eventhimmel. Ob Ersti-Weekend, Sushinight oder sAMIVchlaus, Sonja war bei jeder Hundsverlocheten dabei. Es verging kaum Zeit, bis Sonja selbst bei der Organisation von Events mithalf. Und so munkelt man nun, dass wegen der vielen von ihr organisierten Beerpong-Turniere, es keine Instanz an der ETH gibt, die die Regeln besser kennt als sie. Nebenbei erwähnt, stammt das legendäre Leberschuss-Turnier aus Sonja’s talentierter Feder!
+Die Urheber- und alle anderen Rechte an Inhalten, Bildern, Fotos oder anderen Dateien auf dieser Website, gehören ausschliesslich der juristischen Person Verein der Informatik Studierenden oder den speziell genannten Rechteinhabern. Für die Reproduktion jeglicher Elemente ist die schriftliche Zustimmung des Urheberrechtsträgers im Voraus einzuholen.
+Selbstevaluation: Wir haben Spezialist:innen eingestellt, die die Barrierefreiheit bisheriger und neuer Webkomponenten laufend bewerten und Verbesserungen vorschlagen.
+Conferences & Meetings
+The tool was developed to support the user in the form finding process of vaulted compression structures in the early design phase. It is obvious that prior to any realization of structures based on designs obtained with RV2, a detailed structural analysis is necessary.
+Illustration von Forschungsschwerpunkten
+In den Newsmeldungen und auf Seiten mit einem Schwerpunkt auf Forschungsthemen sind Grafiken mit komplexen Inhalten eingebaut. Wir sind bemüht, diese komplexen Inhalte jeweils so präzise wie möglich in den Begleittext einfliessen zu lassen, da der Alternativtext der Komplexität der Inhalte möglicherweise nicht gerecht wird.
+Die eigenständigen Seitenbereiche wie Header, Navigation, Footer auch nicht-visuell erkennen und sich anhand davon auf den Seiten orientieren.
+We foster a responsible and supportive environ-​ ment where people treat each other respectfully regardless of their function, origin, education, religion, beliefs, physical ability, gender, sexual orientation or gender identity. If these values are disregarded, we will take action. We work together to ensure that all persons - regardless of their role and function - behave in a professional and role-​appropriate manner during work and that (hierarchical) relationships involving dependency are not exploited to the detriment of another person.
+This page does not exist.
+Respect and responsibility
+Bilder und Grafiken werden nach und nach mit aussagekräftigen Alternativtexten versehen.
+sind einzelne animierte Grafiken vorhanden, die nicht ausgeblendet, pausiert oder beendet werden können,
+Ohne vorgängige schriftliche Erlaubnis der ETH Zürich dürfen die Dokumente und Webseiten sowie ihre Teile weder vervielfältigt noch auf anderen Servern gespeichert, in Newsgroups oder Online-​Dienste eingespeist oder auf einer CD-​ROM oder anderen Datenträgern gespeichert werden. Dies gilt insbesondere für das Logo der ETH Zürich.
+Weitere Informationen: Google Analytics Bedingungen
+Jetzt unter de.jimdo.com für eine kostenlose Webseite anmelden und sofort loslegen.
+ETH Zürich © Copyright 2021.
+erhobenen Daten durch Google in der zuvor beschriebenen Art und Weise und zu  dem zuvor benannten Zweck einverstanden.
+request due to maintenance downtime or capacity
+support account for ETH ID Basisdienste - please do not change. This account is necessary for maintenance.
+Be able to navigate using high contrast mode.
+Disclaimer & Copyright
+Working Paper Series
+Limitations and alternatives
+Studium und Spitzensport
+Menü nach links schieben
+© 2019  Eidgenössische
+ETH Zürich, servicedesk@id.ethz.ch
+La pagina desiderata non può essere visualizzata. Le cause possono essere le seguenti:
+Eidgenössische Technische Hochschule ZürichAuthentication User | ETH Zurich
+Überprüfung aller technischen Weiterentwicklungen auf Barrierefreiheit vor deren Einsatz
+Technische Hochschule ZürichAuthentisierung Benutzer | ETH Zürich
+our site we suggest you upgrade to a newer browser.
+All plans are protected by copyright.The rights belong to ETH Zurich. ETH staff have user rights, provided the plans are used for a university-related purpose. A transfer of these user rights to a third party is not permitted, and such cases must be agreed on by PREM.
+warranty of noninfringement of the intellectual property rights of third parties.
+Haftungsansprüche gegen den Autor wegen Schäden materieller  oder immaterieller Art, welche aus dem Zugriff oder der Nutzung bzw. Nichtnutzung der veröffentlichten Informationen, durch
+gegebenenfalls nicht sämtliche  Funktionen dieser Website voll umfänglich nutzen können. Durch  die Nutzung dieser Website erklären Sie sich mit der Bearbeitung der über Sie
+Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+weisen einige Inhalte und Grafiken ungenügende Kontrastverhältnisse auf. Die WCAG-Erfolgskriterien 1.4.3 (Kontrast (Minimum)) und 1.4.11 (Kontrast von Nicht-Text-Inhalten) sind in diesen Fällen nicht erfüllt.
+Diese Seite wurde mit Jimdo erstellt!
+Wichtiger Hinweis:Diese Website wird nur mit den aktuellen Browsern korrekt dargestellt.
+Sie können die Installation der Cookies durch eine  entsprechende Einstellung Ihrer Browser Software verhindern; wir weisen Sie  jedoch darauf hin, dass Sie in diesem Fall
+Studium und Doktorat
+Prevent unauthorized use! Clear the cache of your browser (external pageparticularly cookiescall_made) when you finished browsing.
+We work together in a constructive and honest fashion, where personal integrity is key. The methods, data, workflows and results of our scientific research are documented truthfully . A clear distinction is always made between our own work and the work of others. Young researchers are encouraged and promoted in a responsible manner.
+Klare Zielsetzungen und Verantwortlichkeiten für die Barrierefreiheit
+Website ist aber trotzdem gewährleistet. Wenn Sie diese
+Beschränkungen und Alternativenchevron_right
+The accessibility of the website is dependent on the technologies listed below in combination with the web browser, assistive technologies and/or plugins installed on the end user’s computer:
+Service Temporarily Unavailable
+Public Administration Dialog
+Die ETH Zürich ergreift folgende Massnahmen, um die Zugänglichkeit des Webauftritts zu gewährleisten:
+Mozilla Cavendish Theme based on Cavendish style by Gabriel Wicke modified by DaSch for the Web Community Wiki
+You need to enable JavaScript to run this app.
+The Web Content Accessibility Guidelines (WCAG) set out requirements for designers, developers, content editors, etc. in order to improve access to digital content for people with disabilities. There are three levels of conformance in the WCAG: levels A, AA and AAA.
+Die ETH Zürich arbeitet daran, die Zugänglichkeit ihres Webauftritts laufend zu verbessern. Die folgenden Massnahmen unterstützen dieses Ziel:
+Sämtliche Inhalte dieser Website wie Bild-/Videomaterial unterliegen dem Urheber-/Nutzungsrecht und dürfen nicht von Dritten kopiert und/oder anderweitig genutzt werden. Jegliche Aufnahme oder Wiedergabe der Bild-/Videodaten im Internet, in Onlinediensten oder anderen elektronischen Archiven ist ohne das ausdrückliche Einverständnis des ASVZ untersagt.
+Images and text with insufficient contrast are being improved. The ETH Zurich corporate colours comply with the WCAG guidelines. If they are used correctly, there will be no issues with poor contrast.
+Internship in Industry
+Erklärung zur Barrierefreiheit
+All content that is relevant to studying and working at ETH Zurich is prioritised.
+there is no content in Plain English or Easy English,
+For PhD Students
+Be able to access most content in at least two of three ways (navigation, search, site map).
+11. Applicable law
+We will try to respond to any feedback within one week.
+ETH Zurich hereby grants a single, non-exclusive, world-wide, royalty-free license to use Software subject to all the terms and conditions of this Agreement to the LICENSEE.
